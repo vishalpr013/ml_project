@@ -4,4 +4,4 @@ seaborn
 matplotlib
 scikit-learn
 random2
-# -e .
+-e .
